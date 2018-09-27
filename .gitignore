@@ -1,0 +1,4 @@
+jenkins.pub
+jenkins.pem
+.terraform
+terraform.tf*
